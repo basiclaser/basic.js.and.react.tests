@@ -12,7 +12,7 @@ describe("utilities", () => {
 // JEST - TEST RUNNER 
 // JEST - describe / it / expect / 
 
-// react-testing-library - test render, expect 
-// react-related features - rendering components and checking them 
+// react-testing-library - render / screen
+// react-related features - rendering components and reading them 
 
 
